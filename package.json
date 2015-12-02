@@ -3,7 +3,7 @@
     "beefy": "^2.1.5",
     "bytes": "^2.2.0"
   },
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Render huge texts in the browser",
   "license": "MIT",
   "dependencies": {
