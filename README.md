@@ -1,7 +1,7 @@
 
 # huge-text-view
 
-Render _huge_ text blobs in the browser.
+Render text blobs _of arbitrary size_ efficiently in the browser.
 
 _Work in progress._
 
