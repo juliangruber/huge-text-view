@@ -77,6 +77,7 @@ View.prototype._draw = function(el, viewHeight){
     css(line, 'position', 'absolute');
     css(line, 'left', '0');
     css(line, 'top', i * self._lineHeight + 'px');
+    css(line, 'z-index', 1);
     el.appendChild(line);
     self._rendered[i] = line;
     self._fetch(i, function(err, data){
