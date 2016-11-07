@@ -7,7 +7,7 @@
   "description": "Render huge texts in the browser",
   "license": "MIT",
   "dependencies": {
-    "component-css": "0.0.6"
+    "component-css": "0.0.8"
   },
   "name": "huge-text-view"
 }
