@@ -10,9 +10,12 @@
   "devDependencies": {
     "beefy": "^2.1.5",
     "browserify": "^14.4.0",
-    "bytes": "^2.2.0"
+    "bytes": "^2.2.0",
+    "prettier-standard": "^6.0.0",
+    "standard": "^10.0.2"
   },
   "scripts": {
-    "example": "beefy example.js"
+    "example": "beefy example.js",
+    "test": "prettier-standard '*.js' && standard"
   }
 }
