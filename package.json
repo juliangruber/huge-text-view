@@ -1,6 +1,6 @@
 {
   "name": "huge-text-view",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "license": "MIT",
   "repository": "juliangruber/huge-text-view",
   "description": "Render huge texts in the browser",
