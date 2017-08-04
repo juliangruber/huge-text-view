@@ -1,13 +1,18 @@
 {
-  "devDependencies": {
-    "beefy": "^2.1.5",
-    "bytes": "^2.2.0"
-  },
+  "name": "huge-text-view",
   "version": "1.1.0",
-  "description": "Render huge texts in the browser",
   "license": "MIT",
+  "repository": "juliangruber/huge-text-view",
+  "description": "Render huge texts in the browser",
   "dependencies": {
     "component-css": "0.0.6"
   },
-  "name": "huge-text-view"
+  "devDependencies": {
+    "beefy": "^2.1.5",
+    "browserify": "^14.4.0",
+    "bytes": "^2.2.0"
+  },
+  "scripts": {
+    "example": "beefy example.js"
+  }
 }
