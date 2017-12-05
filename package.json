@@ -5,7 +5,7 @@
   "repository": "juliangruber/huge-text-view",
   "description": "Render huge texts in the browser",
   "dependencies": {
-    "component-css": "0.0.6"
+    "component-css": "0.0.8"
   },
   "devDependencies": {
     "beefy": "^2.1.5",
